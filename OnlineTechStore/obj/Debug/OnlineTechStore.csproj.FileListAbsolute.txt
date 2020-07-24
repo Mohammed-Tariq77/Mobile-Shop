@@ -1,0 +1,934 @@
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\OnlineTechStore.dll.config
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\OnlineTechStore.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\OnlineTechStore.pdb
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\csc.exe
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\csc.exe.config
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\csc.rsp
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\csi.exe
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\csi.exe.config
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\csi.rsp
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.AppContext.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Console.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Net.Http.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\vbc.exe
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\vbc.exe.config
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\vbc.rsp
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Antlr3.Runtime.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\EntityFramework.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Newtonsoft.Json.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Owin.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\PagedList.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\PagedList.Mvc.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.Helpers.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.Mvc.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.Optimization.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.Razor.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\WebGrease.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\EntityFramework.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\PagedList.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\PagedList.Mvc.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.Helpers.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.Mvc.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.Optimization.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.Razor.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Newtonsoft.Json.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Antlr3.Runtime.pdb
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.InitialCreate.resources
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.a.resources
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.aa.resources
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.atya.resources
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.GenerateResource.cache
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CoreCompileInputs.cache
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CopyComplete
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.dll
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.pdb
+C:\Users\Tegoo\Desktop\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.csprojAssemblyReference.cache
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\OnlineTechStore.dll.config
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\OnlineTechStore.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\OnlineTechStore.pdb
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\csc.exe
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\csc.exe.config
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\csc.rsp
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\csi.exe
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\csi.exe.config
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\csi.rsp
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.AppContext.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Console.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Net.Http.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\vbc.exe
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\vbc.exe.config
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\vbc.rsp
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Antlr3.Runtime.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\EntityFramework.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Newtonsoft.Json.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Owin.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\PagedList.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\PagedList.Mvc.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.Helpers.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.Mvc.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.Optimization.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.Razor.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\WebGrease.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\EntityFramework.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\PagedList.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\PagedList.Mvc.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.Helpers.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.Mvc.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.Optimization.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.Razor.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Newtonsoft.Json.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Antlr3.Runtime.pdb
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.csprojAssemblyReference.cache
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.InitialCreate.resources
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.a.resources
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.aa.resources
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.atya.resources
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.GenerateResource.cache
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CoreCompileInputs.cache
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CopyComplete
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.dll
+C:\Users\Tegoo\Desktop\New folder\Online-Technology-Store\OnlineTechStore\OnlineTechStore\obj\Debug\OnlineTechStore.pdb
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\OnlineTechStore.dll.config
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\OnlineTechStore.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\OnlineTechStore.pdb
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\csc.exe
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\csc.exe.config
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\csc.rsp
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\csi.exe
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\csi.exe.config
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\csi.rsp
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.AppContext.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Collections.Immutable.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Console.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Globalization.Calendars.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.Compression.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.FileSystem.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Net.Http.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Net.Sockets.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Reflection.Metadata.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.ValueTuple.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.XPath.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\vbc.exe
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\vbc.exe.config
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\vbc.rsp
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\VBCSCompiler.exe
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\roslyn\VBCSCompiler.exe.config
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Antlr3.Runtime.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.SqlServer.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Google.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Web.Infrastructure.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Newtonsoft.Json.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Owin.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\PagedList.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\PagedList.Mvc.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.Helpers.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.Mvc.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.Optimization.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.Razor.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Deployment.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Razor.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\WebGrease.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.SqlServer.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\PagedList.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\PagedList.Mvc.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.Helpers.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.Mvc.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.Optimization.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.Razor.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Deployment.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Razor.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Newtonsoft.Json.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Antlr3.Runtime.pdb
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Google.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.csprojAssemblyReference.cache
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.InitialCreate.resources
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.a.resources
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.aa.resources
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.atya.resources
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.GenerateResource.cache
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CoreCompileInputs.cache
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CopyComplete
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.dll
+G:\ITI\Projects\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.pdb
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\OnlineTechStore.dll.config
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\OnlineTechStore.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\OnlineTechStore.pdb
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csc.exe
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csc.exe.config
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csc.rsp
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csi.exe
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csi.exe.config
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csi.rsp
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.AppContext.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Console.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Net.Http.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\vbc.exe
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\vbc.exe.config
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\vbc.rsp
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Owin.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\PagedList.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\PagedList.Mvc.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Helpers.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Mvc.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Optimization.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Razor.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\WebGrease.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\PagedList.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\PagedList.Mvc.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Helpers.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Mvc.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Optimization.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Razor.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.csprojAssemblyReference.cache
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.InitialCreate.resources
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.a.resources
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.aa.resources
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.atya.resources
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.dll
+C:\Users\Ahmed\Desktop\MVC Project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.pdb
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\OnlineTechStore.dll.config
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\OnlineTechStore.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\OnlineTechStore.pdb
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csc.exe
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csc.exe.config
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csc.rsp
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csi.exe
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csi.exe.config
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\csi.rsp
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.Managed.Core.targets
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.AppContext.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Collections.Immutable.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Console.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Globalization.Calendars.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.Compression.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.FileSystem.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Net.Http.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Net.Sockets.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.ValueTuple.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.XmlDocument.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.XPath.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\vbc.exe
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\vbc.exe.config
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\vbc.rsp
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\VBCSCompiler.exe
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\roslyn\VBCSCompiler.exe.config
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Antlr3.Runtime.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.SqlServer.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Google.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Web.Infrastructure.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Newtonsoft.Json.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Owin.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\PagedList.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\PagedList.Mvc.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Helpers.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Mvc.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Optimization.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Razor.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Deployment.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Razor.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\WebGrease.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\EntityFramework.SqlServer.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\PagedList.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\PagedList.Mvc.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Helpers.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Mvc.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Optimization.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.Razor.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Deployment.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\System.Web.WebPages.Razor.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Newtonsoft.Json.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Antlr3.Runtime.pdb
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Google.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.csprojAssemblyReference.cache
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.InitialCreate.resources
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.a.resources
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.aa.resources
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.atya.resources
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.GenerateResource.cache
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CopyComplete
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.dll
+E:\project\MVC-Project\Online-Technology-Store\OnlineTechStore\obj\Debug\OnlineTechStore.pdb
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\OnlineTechStore.dll.config
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\OnlineTechStore.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\OnlineTechStore.pdb
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csc.exe
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csc.exe.config
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csc.rsp
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csi.exe
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csi.exe.config
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csi.rsp
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.AppContext.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Console.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Net.Http.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\vbc.exe
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\vbc.exe.config
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\vbc.rsp
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Owin.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.Mvc.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Helpers.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Mvc.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Optimization.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Razor.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\WebGrease.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.Mvc.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Helpers.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Mvc.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Optimization.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Razor.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csprojAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.InitialCreate.resources
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.a.resources
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.aa.resources
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.atya.resources
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.dll
+C:\Users\Ahmed\Desktop\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.pdb
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\OnlineTechStore.dll.config
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\OnlineTechStore.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\OnlineTechStore.pdb
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csc.exe
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csc.exe.config
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csc.rsp
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csi.exe
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csi.exe.config
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csi.rsp
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.AppContext.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Collections.Immutable.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Console.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.Compression.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.FileSystem.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Net.Http.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Net.Sockets.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.ValueTuple.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.XPath.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\vbc.exe
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\vbc.exe.config
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\vbc.rsp
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\VBCSCompiler.exe
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\VBCSCompiler.exe.config
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Antlr3.Runtime.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.SqlServer.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Google.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Web.Infrastructure.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Newtonsoft.Json.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Owin.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.Mvc.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Helpers.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Mvc.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Optimization.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Razor.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Deployment.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Razor.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\WebGrease.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.SqlServer.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.Mvc.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Helpers.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Mvc.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Optimization.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Razor.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Deployment.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Razor.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Newtonsoft.Json.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Antlr3.Runtime.pdb
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Google.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csprojAssemblyReference.cache
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.InitialCreate.resources
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.a.resources
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.aa.resources
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.atya.resources
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.GenerateResource.cache
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CoreCompileInputs.cache
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CopyComplete
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.dll
+C:\MY LAB\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.pdb
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\OnlineTechStore.dll.config
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\OnlineTechStore.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\OnlineTechStore.pdb
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csc.exe
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csc.exe.config
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csc.rsp
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csi.exe
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csi.exe.config
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\csi.rsp
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.Managed.Core.targets
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.AppContext.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Collections.Immutable.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Console.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Globalization.Calendars.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.Compression.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.FileSystem.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Net.Http.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Net.Sockets.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Reflection.Metadata.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.ValueTuple.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.XmlDocument.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.XPath.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\vbc.exe
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\vbc.exe.config
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\vbc.rsp
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\VBCSCompiler.exe
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\roslyn\VBCSCompiler.exe.config
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Antlr3.Runtime.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.SqlServer.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Google.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Web.Infrastructure.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Newtonsoft.Json.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Owin.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.Mvc.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Helpers.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Mvc.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Optimization.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Razor.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Deployment.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Razor.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\WebGrease.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\EntityFramework.SqlServer.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\PagedList.Mvc.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Helpers.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Mvc.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Optimization.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.Razor.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Deployment.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\System.Web.WebPages.Razor.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Newtonsoft.Json.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Antlr3.Runtime.pdb
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Core.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Facebook.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Cookies.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Google.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.Twitter.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.Owin.Security.OAuth.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csprojAssemblyReference.cache
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.InitialCreate.resources
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.a.resources
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.aa.resources
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.Migrations.atya.resources
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.GenerateResource.cache
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CoreCompileInputs.cache
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.csproj.CopyComplete
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.dll
+I:\ITI\MVC & .NET COR\Online-TechStore\Ecommerce\OnlineTechStore\obj\Debug\OnlineTechStore.pdb
